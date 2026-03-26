@@ -1,0 +1,5 @@
+[console_scripts]
+controller = prius_controller.controller:main
+follow_path = prius_controller.follow_path:main
+record_path = prius_controller.record_path:main
+waypoint_controller = prius_controller.waypoint_controller:main

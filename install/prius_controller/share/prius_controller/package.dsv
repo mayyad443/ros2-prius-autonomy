@@ -1,0 +1,4 @@
+source;share/prius_controller/hook/pythonpath.dsv
+source;share/prius_controller/hook/pythonpath.sh
+source;share/prius_controller/hook/ament_prefix_path.dsv
+source;share/prius_controller/hook/ament_prefix_path.sh

@@ -1,0 +1,28 @@
+[0.459s] Invoking command in '/home/mayyad/ros2_ws/src/prius_controller': PYTHONPATH=/home/mayyad/ros2_ws/build/prius_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mayyad/ros2_ws/install/prius_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/prius_controller build --build-base /home/mayyad/ros2_ws/build/prius_controller/build install --record /home/mayyad/ros2_ws/build/prius_controller/install.log --single-version-externally-managed install_data
+[0.599s] running egg_info
+[0.608s] writing ../../build/prius_controller/prius_controller.egg-info/PKG-INFO
+[0.609s] writing dependency_links to ../../build/prius_controller/prius_controller.egg-info/dependency_links.txt
+[0.609s] writing entry points to ../../build/prius_controller/prius_controller.egg-info/entry_points.txt
+[0.609s] writing requirements to ../../build/prius_controller/prius_controller.egg-info/requires.txt
+[0.609s] writing top-level names to ../../build/prius_controller/prius_controller.egg-info/top_level.txt
+[0.629s] reading manifest file '../../build/prius_controller/prius_controller.egg-info/SOURCES.txt'
+[0.629s] writing manifest file '../../build/prius_controller/prius_controller.egg-info/SOURCES.txt'
+[0.629s] running build
+[0.629s] running build_py
+[0.630s] copying prius_controller/follow_path.py -> /home/mayyad/ros2_ws/build/prius_controller/build/lib/prius_controller
+[0.630s] running install
+[0.634s] running install_lib
+[0.644s] copying /home/mayyad/ros2_ws/build/prius_controller/build/lib/prius_controller/follow_path.py -> /home/mayyad/ros2_ws/install/prius_controller/lib/python3.12/site-packages/prius_controller
+[0.644s] byte-compiling /home/mayyad/ros2_ws/install/prius_controller/lib/python3.12/site-packages/prius_controller/follow_path.py to follow_path.cpython-312.pyc
+[0.645s] Sorry: TabError: inconsistent use of tabs and spaces in indentation (follow_path.py, line 87)
+[0.646s] running install_data
+[0.646s] running install_egg_info
+[0.657s] removing '/home/mayyad/ros2_ws/install/prius_controller/lib/python3.12/site-packages/prius_controller-0.0.0-py3.12.egg-info' (and everything under it)
+[0.658s] Copying ../../build/prius_controller/prius_controller.egg-info to /home/mayyad/ros2_ws/install/prius_controller/lib/python3.12/site-packages/prius_controller-0.0.0-py3.12.egg-info
+[0.658s] running install_scripts
+[0.724s] Installing controller script to /home/mayyad/ros2_ws/install/prius_controller/lib/prius_controller
+[0.724s] Installing follow_path script to /home/mayyad/ros2_ws/install/prius_controller/lib/prius_controller
+[0.724s] Installing record_path script to /home/mayyad/ros2_ws/install/prius_controller/lib/prius_controller
+[0.725s] Installing waypoint_controller script to /home/mayyad/ros2_ws/install/prius_controller/lib/prius_controller
+[0.725s] writing list of installed files to '/home/mayyad/ros2_ws/build/prius_controller/install.log'
+[0.743s] Invoked command in '/home/mayyad/ros2_ws/src/prius_controller' returned '0': PYTHONPATH=/home/mayyad/ros2_ws/build/prius_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mayyad/ros2_ws/install/prius_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/prius_controller build --build-base /home/mayyad/ros2_ws/build/prius_controller/build install --record /home/mayyad/ros2_ws/build/prius_controller/install.log --single-version-externally-managed install_data

@@ -1,0 +1,27 @@
+[0.466s] Invoking command in '/home/mayyad/ros2_ws/src/prius_controller': PYTHONPATH=/home/mayyad/ros2_ws/build/prius_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mayyad/ros2_ws/install/prius_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/prius_controller build --build-base /home/mayyad/ros2_ws/build/prius_controller/build install --record /home/mayyad/ros2_ws/build/prius_controller/install.log --single-version-externally-managed install_data
+[0.592s] running egg_info
+[0.601s] writing ../../build/prius_controller/prius_controller.egg-info/PKG-INFO
+[0.601s] writing dependency_links to ../../build/prius_controller/prius_controller.egg-info/dependency_links.txt
+[0.601s] writing entry points to ../../build/prius_controller/prius_controller.egg-info/entry_points.txt
+[0.602s] writing requirements to ../../build/prius_controller/prius_controller.egg-info/requires.txt
+[0.602s] writing top-level names to ../../build/prius_controller/prius_controller.egg-info/top_level.txt
+[0.618s] reading manifest file '../../build/prius_controller/prius_controller.egg-info/SOURCES.txt'
+[0.619s] writing manifest file '../../build/prius_controller/prius_controller.egg-info/SOURCES.txt'
+[0.619s] running build
+[0.619s] running build_py
+[0.619s] copying prius_controller/follow_path.py -> /home/mayyad/ros2_ws/build/prius_controller/build/lib/prius_controller
+[0.619s] running install
+[0.622s] running install_lib
+[0.631s] copying /home/mayyad/ros2_ws/build/prius_controller/build/lib/prius_controller/follow_path.py -> /home/mayyad/ros2_ws/install/prius_controller/lib/python3.12/site-packages/prius_controller
+[0.631s] byte-compiling /home/mayyad/ros2_ws/install/prius_controller/lib/python3.12/site-packages/prius_controller/follow_path.py to follow_path.cpython-312.pyc
+[0.632s] running install_data
+[0.632s] running install_egg_info
+[0.642s] removing '/home/mayyad/ros2_ws/install/prius_controller/lib/python3.12/site-packages/prius_controller-0.0.0-py3.12.egg-info' (and everything under it)
+[0.642s] Copying ../../build/prius_controller/prius_controller.egg-info to /home/mayyad/ros2_ws/install/prius_controller/lib/python3.12/site-packages/prius_controller-0.0.0-py3.12.egg-info
+[0.642s] running install_scripts
+[0.703s] Installing controller script to /home/mayyad/ros2_ws/install/prius_controller/lib/prius_controller
+[0.704s] Installing follow_path script to /home/mayyad/ros2_ws/install/prius_controller/lib/prius_controller
+[0.704s] Installing record_path script to /home/mayyad/ros2_ws/install/prius_controller/lib/prius_controller
+[0.704s] Installing waypoint_controller script to /home/mayyad/ros2_ws/install/prius_controller/lib/prius_controller
+[0.704s] writing list of installed files to '/home/mayyad/ros2_ws/build/prius_controller/install.log'
+[0.722s] Invoked command in '/home/mayyad/ros2_ws/src/prius_controller' returned '0': PYTHONPATH=/home/mayyad/ros2_ws/build/prius_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mayyad/ros2_ws/install/prius_controller/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/prius_controller build --build-base /home/mayyad/ros2_ws/build/prius_controller/build install --record /home/mayyad/ros2_ws/build/prius_controller/install.log --single-version-externally-managed install_data

@@ -1,0 +1,26 @@
+running egg_info
+writing ../../build/prius_controller/prius_controller.egg-info/PKG-INFO
+writing dependency_links to ../../build/prius_controller/prius_controller.egg-info/dependency_links.txt
+writing entry points to ../../build/prius_controller/prius_controller.egg-info/entry_points.txt
+writing requirements to ../../build/prius_controller/prius_controller.egg-info/requires.txt
+writing top-level names to ../../build/prius_controller/prius_controller.egg-info/top_level.txt
+reading manifest file '../../build/prius_controller/prius_controller.egg-info/SOURCES.txt'
+writing manifest file '../../build/prius_controller/prius_controller.egg-info/SOURCES.txt'
+running build
+running build_py
+copying prius_controller/follow_path.py -> /home/mayyad/ros2_ws/build/prius_controller/build/lib/prius_controller
+running install
+running install_lib
+copying /home/mayyad/ros2_ws/build/prius_controller/build/lib/prius_controller/follow_path.py -> /home/mayyad/ros2_ws/install/prius_controller/lib/python3.12/site-packages/prius_controller
+byte-compiling /home/mayyad/ros2_ws/install/prius_controller/lib/python3.12/site-packages/prius_controller/follow_path.py to follow_path.cpython-312.pyc
+Sorry: TabError: inconsistent use of tabs and spaces in indentation (follow_path.py, line 87)
+running install_data
+running install_egg_info
+removing '/home/mayyad/ros2_ws/install/prius_controller/lib/python3.12/site-packages/prius_controller-0.0.0-py3.12.egg-info' (and everything under it)
+Copying ../../build/prius_controller/prius_controller.egg-info to /home/mayyad/ros2_ws/install/prius_controller/lib/python3.12/site-packages/prius_controller-0.0.0-py3.12.egg-info
+running install_scripts
+Installing controller script to /home/mayyad/ros2_ws/install/prius_controller/lib/prius_controller
+Installing follow_path script to /home/mayyad/ros2_ws/install/prius_controller/lib/prius_controller
+Installing record_path script to /home/mayyad/ros2_ws/install/prius_controller/lib/prius_controller
+Installing waypoint_controller script to /home/mayyad/ros2_ws/install/prius_controller/lib/prius_controller
+writing list of installed files to '/home/mayyad/ros2_ws/build/prius_controller/install.log'
